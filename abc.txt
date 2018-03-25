@@ -1,0 +1,4 @@
+Hi Ashwini, This is the first file to start GIT.
+created a repository via git init
+now i should add file into Repository
+
